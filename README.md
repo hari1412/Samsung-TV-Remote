@@ -1,5 +1,4 @@
 # Flutter 
-!["with_love"](	https://raw.githubusercontent.com/GitJournal/dart_git/master/assets/logo.png)
 Using IR Sensor Plugin
 Note: IR code used from universal tv remote team you can also replace that code for particular tv.
 
